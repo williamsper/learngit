@@ -1,2 +1,6 @@
 1
+<<<<<<< HEAD
 learning git
+=======
+program git
+>>>>>>> ce1258cba74bbabbccb8522044e2887c007d201e
